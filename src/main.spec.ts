@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest"
-import { myFunction } from "./main.js"
+import { myFunction } from "./GildedRose.js"
 
 describe("Default test", () => {
   it("should work", () => {
